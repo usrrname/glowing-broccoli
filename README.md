@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Create React App with Jest 29, Typescript and ESM
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Example of Jest config for ESM and Typescript.
 
 ## Available Scripts
 
